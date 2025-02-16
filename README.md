@@ -1,9 +1,7 @@
-# taskl (demo)
+# taskl (demo, no test)
 A lightweight asynchronous task processing framework developed in Go language.
 
 轻量级的go语言异步处理框架
-
-
 
 ## Framework
 ```
